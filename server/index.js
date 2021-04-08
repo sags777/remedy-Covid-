@@ -14,7 +14,7 @@ require("dotenv").config();
 const app = express();
 
 const dbUri =
-  "mongodb+srv://hackMongo:hackathon123@cluster0.gzjhs.mongodb.net/hackdb?retryWrites=true&w=majority";
+  "your mongo connect url";
 
 mongoose.connect(dbUri, {
   useNewUrlParser: true,
