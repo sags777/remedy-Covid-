@@ -1,6 +1,6 @@
 COVID application
 
-Remedy
+Application name: Remedy
 
 Build On
 1. React
