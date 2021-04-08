@@ -1,0 +1,103 @@
+#loginCard1 {
+  max-width: 900px;
+  max-height: 1000px;
+  background-color: #5e95d4;
+  color: white;
+  text-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#loginCard2 {
+  margin-top: 10px;
+  margin-left: 40px;
+  max-width: 550px;
+  max-height: 1000px;
+  margin-bottom: 40px;
+}
+
+#errorPage {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  max-width: 700px;
+  max-height: 600px;
+  margin-top: 50px;
+}
+
+#navItems {
+  border-color: white;
+  border: 1px solid white;
+  border-radius: 5px;
+  margin-left: 10px;
+  color: white;
+}
+
+#footer {
+  height: 230px;
+  background-color: #5e95d4;
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+/* profile */
+#profile {
+  margin: auto;
+  margin-bottom: 100px;
+  padding-top: 40px;
+  max-width: 1200px;
+}
+
+#profileTabs {
+  margin-top: 20px;
+}
+
+#aboutProfile {
+  margin-top: 30px;
+  max-width: 1000px;
+}
+
+#accountSetting{
+  margin-top: 30px;
+  max-width: 1000px;
+}
+
+#infoCard {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 5px;
+}
+
+#vaccineCard {
+  margin-top: 30px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 5px;
+}
+
+#imageEdit {
+  position: absolute;
+  font-size: 40px;
+  padding-top: 160px;
+  padding-left: 170px;
+}
+
+#profileInfo {
+  margin-top: "50px";
+}
+
+#vaccineItem {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+/* home */
+#home {
+  margin: auto;
+  margin-top: 30px;
+  max-width: 1200px;
+}
+
+#aboutCovid{
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
