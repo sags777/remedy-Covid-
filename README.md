@@ -1,4 +1,4 @@
-# COVID application: Remedy
+# COVID application: Covid-Help
 
 # Build On
 
